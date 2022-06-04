@@ -405,7 +405,7 @@ box-sizing: border-box;
  }
  .body
  {
-     background: url(../img/back.jpg) repeat;     
+     background: url(back.jpg) repeat;     
  }
  /* Header styles start */
 
